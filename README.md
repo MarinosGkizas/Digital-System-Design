@@ -1,2 +1,3 @@
-# Digital-System-Design
-This is a project for the subject Digital Systems Design of the CEID in University of Patras. We are working with the tools ATALANTA and HOPE, in order to produce test vectors for combinational and full-scan sequencial circuits and to observe the st
+#2 main projects in this subject.
+The tools for the project were ATALANTA (automatic test pattern generator for stuck-at faults in combinational circuits), HOPE (A fault simulator for synchronous sequential circuits) and TetraMax by Synopsys.
+Also worked with PODEM,FAN and D ATPG algorithms.
